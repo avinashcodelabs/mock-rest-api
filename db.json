@@ -5,35 +5,35 @@
       "name": "Phone",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "price": 10.99,
-      "imgUrl": "https://picsum.photos/id/504/200"
+      "imgUrl": "https://picsum.photos/id/504/300/200"
     },
     {
       "id": 2,
       "name": "MacBook",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "price": 1199,
-      "imgUrl": "https://picsum.photos/id/48/200"
+      "imgUrl": "https://picsum.photos/id/48/300/200"
     },
     {
       "id": 3,
       "name": "Shoes",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "price": 1.05,
-      "imgUrl": "https://picsum.photos/id/21/200"
+      "imgUrl": "https://picsum.photos/id/21/300/200"
     },
     {
       "id": 4,
       "name": "A Dress",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "price": 14000,
-      "imgUrl": "https://picsum.photos/id/823/200"
+      "imgUrl": "https://picsum.photos/id/823/300/200"
     },
     {
       "id": 5,
       "name": "Karvalo - A book",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "price": 150,
-      "imgUrl": "https://picsum.photos/id/464/200"
+      "imgUrl": "https://picsum.photos/id/464/300/200"
     }
   ],
   "users": [
